@@ -1,0 +1,9 @@
+[submodule "libsrc"]
+	path = 02/libsrc
+	url = git@gitlab.informatik.fb2.hs-intern.de:hahm/room-management-library.git
+[submodule "03/libsrc"]
+	path = 03/libsrc
+	url = git@gitlab.informatik.fb2.hs-intern.de:hahm/room-management-library.git
+[submodule "04/libsrc"]
+	path = 04/libsrc
+	url = git@gitlab.informatik.fb2.hs-intern.de:hahm/room-management-library.git
